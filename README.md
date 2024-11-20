@@ -1,1 +1,1 @@
-I am a readme
+The purpose of this project is to work on a recipes webpage
